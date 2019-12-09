@@ -1,0 +1,26 @@
+{
+  "name": "gulp-start-kit",
+  "version": "1.0.0",
+  "description": "Gulp with pleasure. Start your project with Gulp! Starting frontend point.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neyia/gulp-start-kit.git"
+  },
+  "author": "Natallia Zhyrkova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neyia/gulp-start-kit/issues"
+  },
+  "homepage": "https://github.com/neyia/gulp-start-kit#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^6.2.0"
+  }
+}
